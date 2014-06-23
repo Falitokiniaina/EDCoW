@@ -28,3 +28,6 @@ We change the code : make gamma to be different
 	
 REMARK 3:
 All the needed files to be added to the build path are in the folder.
+
+REMARK 4:
+You can find documentation of the code in the folder doc.
