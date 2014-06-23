@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="private" author="true" classpath="C:\Users\Falitokiniaina\Desktop\lib\jtransforms-2.4.jar;C:\Users\Falitokiniaina\Desktop\lib\jmod-1.2b.jar;C:\Users\Falitokiniaina\Desktop\lib;C:\Users\Falitokiniaina\Desktop\lib\jWave_java_groovy.jar" destdir="" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="FileSystem,JmodPackage,Correlation,Dwt" source="1.7" sourcepath="../src" splitindex="true" use="true" version="true">
+            <link href="http://download.oracle.com/javase/7/docs/api/"/>
+        </javadoc>
+    </target>
+</project>

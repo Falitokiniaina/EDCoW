@@ -1,0 +1,27 @@
+ECLIPSE PROJECT
+
+------- Based on the paper 'Event Detection in Twitter' by Jianshu Weng, Bu-Sung Lee ICWSM 2011--------
+************** Event Detection With CLustering of Wavelet-based Signals *********************
+***********************************   EDCoW   ***********************************************
+
+Thanks to the great help from our tutors, Adrien Guille and Jairo Cugliari, We are achieving this project as fruit of our case study for the second semester, 
+Master 1 of DMKM, Université Lumière - Lyon2, 2003-2004. Developped by Yue He and Falitokiniaina Rabearison.
+
+REMARK 1:
+If debug mode is enabled, some output files will be stored:
+* The form of the path of the autocorrelation file is
+	./results/folderName_window_delta_AutoCorrVal.csv
+	
+* File containing the remaining keywords after filtering with theta1
+	FolderName_window_delta_gama1_theta1__RemainKeyWords.txt	
+	
+* Put OriginalBigMatrix in a file	
+	./results/FolderName_window_delta_gamma1_theta1_theta2_OriginalBigMatrix.csv
+	
+* Filter OriginalBigMatrix with theta2 & Put FilteredBigMatrix in a file
+	./results/FolderName_window_delta_gamma1_gamm2_theta1_theta2_FilteredBigMatrix.csv
+	
+REMARK 2:	
+We change the code : make gamma to be different
+	gamma1 for theta1
+	gamma2 for theta2
