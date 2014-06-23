@@ -25,3 +25,6 @@ REMARK 2:
 We change the code : make gamma to be different
 	gamma1 for theta1
 	gamma2 for theta2
+	
+REMARK 3:
+All the needed files to be added to the build path are in the folder.
