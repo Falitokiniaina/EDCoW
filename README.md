@@ -10,3 +10,7 @@ Master 1 in Data Mining and Knowledge Management (DMKM), Université Lumière - 
 Contact :
 Yue HE : yuehe2012@gmail.com
 Falitokiniaina RABEARISON : r.falitokiniaina@gmail.com
+
+This EDCoW module is implemented in SOcial Network DYnamics (SONDY), An Open Source Platform for Social Dynamics Mining and Analysis, developped by Adrien Guille, Cécile Favre, Hakim Hacid and D.A. Zighed.
+http://mediamining.univ-lyon2.fr/people/guille/software.php
+Adrien Guille : adrien.guille@univ-lyon2.fr
